@@ -1,1 +1,2 @@
-# Trivia_Maze_Redo
+# Trivia_maze
+New and improved trivia maze repo
